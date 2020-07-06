@@ -9,6 +9,8 @@ Spring
 Hibernate
 
 Java
+SQL
+Oracle
 
 
 Thank You :)
