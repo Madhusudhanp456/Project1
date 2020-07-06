@@ -9,9 +9,14 @@ Spring
 Hibernate
 
 Java
-
+SQL
+Oracle
 
 Thank You :)
 
+Done my changes
+
+
 
 Final Copy
+
